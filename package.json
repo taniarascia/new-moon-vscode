@@ -1,9 +1,9 @@
 {
 	"name": "new-moon-vscode",
 	"displayName": "New Moon VSCode",
-	"description": "New Moon Theme for Visual Studio Code. A beautiful, middle-contrast dark theme inspired by Twilight and Tomorrow Night Eighties, optimized for front end development and PHP. Your new favorite theme.",
-	"version": "1.0.0",
-	"icon": "screenshots/screenshot.png",
+	"description": "New Moon Theme for Visual Studio Code. A beautiful, middle-contrast dark theme optimized for front and back end development. Your new favorite theme.",
+	"version": "1.1.0",
+	"icon": "screenshots/nmlogo.png",
 	"publisher": "taniarascia",
 	"repository": {
 		"type": "git",
@@ -27,5 +27,10 @@
 				"path": "./themes/new-moon.json"
 			}
 		]
+	},
+	"__metadata": {
+		"id": "da62dfba-5132-4928-a127-0ef0c8af08c3",
+		"publisherId": "1382f5b7-7cf4-4ace-8ec1-ce9e27570ccb",
+		"publisherDisplayName": "Tania Rascia"
 	}
 }
