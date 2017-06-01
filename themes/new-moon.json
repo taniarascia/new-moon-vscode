@@ -72,7 +72,7 @@
 				"foreground": "#ffeea6"
 			},
 			"name": "Keywords",
-			"scope": "keyword,keyword.operator.expression.typeof"
+			"scope": "keyword,keyword.operator.expression.typeof,keyword.operator"
 		},
 		{
 			"settings": {
