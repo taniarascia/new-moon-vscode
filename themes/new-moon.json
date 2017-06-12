@@ -41,6 +41,13 @@
 		},
 		{
 			"settings": {
+				"foreground": "#cda869"
+			},
+			"name": "Punctuation Operators",
+			"scope": "keyword.operator"
+		},
+		{
+			"settings": {
 				"foreground": "#f2777a"
 			},
 			"name": "Punctuation Variable",
@@ -72,7 +79,7 @@
 				"foreground": "#ffeea6"
 			},
 			"name": "Keywords",
-			"scope": "keyword,keyword.operator.expression.typeof,keyword.operator"
+			"scope": "keyword,keyword.operator.expression.typeof,variable.language.this"
 		},
 		{
 			"settings": {
