@@ -128,14 +128,14 @@
 				"foreground": "#78AAD6"
 			},
 			"name": "Methods",
-			"scope": "keyword.other.special-method"
+			"scope": "keyword.other.special-method,entity.name.type"
 		},
 		{
 			"settings": {
 				"foreground": "#ffeea6"
 			},
 			"name": "Storage",
-			"scope": "storage,support.function.construct.output.php"
+			"scope": "storage,support.function.construct.output.php,keyword.operator.new"
 		},
 		{
 			"settings": {
