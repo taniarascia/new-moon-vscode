@@ -37,7 +37,7 @@
 				"foreground": "#d3d0c8"
 			},
 			"name": "Punctuation",
-			"scope": "punctuation.definition.parameters, punctuation.definition.array"
+			"scope": "punctuation.definition.parameters, punctuation.definition.array,punctuation.separator.key-value"
 		},
 		{
 			"settings": {
@@ -69,10 +69,17 @@
 		},
 		{
 			"settings": {
+				"foreground": "#93918c"
+			},
+			"name": "Blocks",
+			"scope": "punctuation.definition.block,meta.brace.square,meta.parameters,punctuation.definition.parameters,meta.brace.round,punctuation.definition.dictionary,punctuation.definition,punctuation.definition.array,punctuation.separator,constant.character.escape.backslash.regexp,punctuation.section,punctuation.terminator.statement"
+		},
+		{
+			"settings": {
 				"foreground": "#cda869"
 			},
 			"name": "Operators",
-			"scope": "keyword.operator"
+			"scope": "keyword.operator,"
 		},
 		{
 			"settings": {
@@ -100,7 +107,7 @@
 				"foreground": "#ffffff"
 			},
 			"name": "Functions",
-			"scope": "entity.name.function, meta.require, support.function.any-method"
+			"scope": "entity.name.function, meta.require, support.function.any-method,meta.tag.sgml.html"
 		},
 		{
 			"settings": {
@@ -114,7 +121,7 @@
 				"foreground": "#78AAD6"
 			},
 			"name": "Classes",
-			"scope": "meta.entity.new.name.expr"
+			"scope": "meta.entity.new.name.expr,entity.name.tag.structure.any.html,meta.tag.structure.any.html,punctuation.definition.tag.html,meta.tag.sgml.doctype.html"
 		},
 		{
 			"settings": {
@@ -169,8 +176,8 @@
 			"settings": {
 				"foreground": "#fca369"
 			},
-			"name": "Boolean",
-			"scope": "none"
+			"name": "Regex",
+			"scope": "string.regexp,string.regexp.js"
 		},
 		{
 			"settings": {
