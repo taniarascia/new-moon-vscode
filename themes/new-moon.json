@@ -72,7 +72,7 @@
 				"foreground": "#93918c"
 			},
 			"name": "Blocks",
-			"scope": "punctuation.definition.block,meta.brace.square,meta.parameters,punctuation.definition.parameters,meta.brace.round,punctuation.definition.dictionary,punctuation.definition,punctuation.definition.array,punctuation.separator,constant.character.escape.backslash.regexp,punctuation.section,punctuation.terminator.statement"
+			"scope": "punctuation.definition.block,meta.brace.square,meta.parameters,punctuation.definition.parameters,meta.brace.round,punctuation.definition.dictionary,punctuation.definition.array,punctuation.separator,constant.character.escape.backslash.regexp,punctuation.section,punctuation.terminator.statement"
 		},
 		{
 			"settings": {
@@ -198,7 +198,7 @@
 				"foreground": "#FFD479"
 			},
 			"name": "Attributes",
-			"scope": "entity.other.attribute-name,entity.other.attribute-name.class.css"
+			"scope": "entity.other.attribute-name,entity.other.attribute-name.class.css,"
 		},
 		{
 			"settings": {
