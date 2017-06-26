@@ -69,9 +69,9 @@
 		},
 		{
 			"settings": {
-				"foreground": "#93918c"
+				"foreground": "#d3d0c8"
 			},
-			"name": "Blocks",
+			"name": "Brackets",
 			"scope": "punctuation.definition.block,meta.brace.square,meta.parameters,punctuation.definition.parameters,meta.brace.round,punctuation.definition.dictionary,punctuation.definition.array,punctuation.separator,constant.character.escape.backslash.regexp,punctuation.section,punctuation.terminator.statement"
 		},
 		{
