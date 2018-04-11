@@ -23,7 +23,7 @@
 				"foreground": "#f2777a"
 			},
 			"name": "Text",
-			"scope": "variable.parameter.function"
+			"scope": "variable.parameter.function,punctuation.definition.template-expression.begin.js,punctuation.definition.template-expression.end.js"
 		},
 		{
 			"settings": {
@@ -44,7 +44,7 @@
 				"foreground": "#cda869"
 			},
 			"name": "Punctuation Operators",
-			"scope": "keyword.operator, constant.character.escape, constant.character.escape.json"
+			"scope": "keyword.operator, constant.character.escape, constant.character.escape.json,entity.other.attribute-name.pseudo-element.css, entity.other.attribute-name.pseudo-class.css"
 		},
 		{
 			"settings": {
@@ -72,14 +72,21 @@
 				"foreground": "#d3d0c8"
 			},
 			"name": "Brackets",
-			"scope": "punctuation.definition.block,meta.brace.square,meta.parameters,punctuation.definition.parameters,meta.brace.round,punctuation.definition.dictionary,punctuation.definition.array,punctuation.separator,constant.character.escape.backslash.regexp,punctuation.section,punctuation.terminator.statement"
+			"scope": "punctuation.definition.block,meta.brace.square,meta.parameters,punctuation.definition.parameters,meta.brace.round,punctuation.definition.dictionary,punctuation.definition.array,punctuation.separator,constant.character.escape.backslash.regexp,punctuation.section,punctuation.terminator.statement,variable.other.property.js,support.variable.property.dom.js"
 		},
 		{
 			"settings": {
 				"foreground": "#cda869"
 			},
 			"name": "Operators",
-			"scope": "keyword.operator,"
+			"scope": "keyword.operator,punctuation.accessor.js"
+		},
+		{
+			"settings": {
+				"foreground": "#99bdd5"
+			},
+			"name": "CSS Val",
+			"scope": "support.constant.property-value"
 		},
 		{
 			"settings": {
@@ -125,10 +132,10 @@
 		},
 		{
 			"settings": {
-				"foreground": "#d6acd6"
+				"foreground": "#ffffff"
 			},
 			"name": "Value",
-			"scope": "meta.property-value, support.constant.property-value, constant.other.color"
+			"scope": "meta.property-value"
 		},
 		{
 			"settings": {
@@ -345,7 +352,7 @@
 				"foreground": "#76D4D6"
 			},
 			"name": "Colors",
-			"scope": "constant.other.color,entity.other.attribute-name.pseudo-class.css"
+			"scope": "constant.other.color,entity.other.attribute-name.pseudo-class.css, constant.other.php"
 		},
 		{
 			"settings": {
