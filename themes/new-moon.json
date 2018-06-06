@@ -139,7 +139,7 @@
 				"foreground": "#f2777a"
 			},
 			"name": "Variables",
-			"scope": "variable,meta.link.inline.markdown,string.other.link.title.markdown"
+			"scope": "variable,meta.link.inline.markdown,string.other.link.title.markdown, variable.language.this.php"
 		},
 		{
 			"settings": {
