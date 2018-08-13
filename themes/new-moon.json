@@ -83,7 +83,8 @@
 		},
 		{
 			"settings": {
-				"foreground": "#ffeea6"
+				"foreground": "#ffeea6",
+				"fontStyle": "italic"
 			},
 			"name": "Keywords",
 			"scope": "keyword,keyword.operator.expression.typeof,variable.language.this"
@@ -139,7 +140,8 @@
 		},
 		{
 			"settings": {
-				"foreground": "#ffeea6"
+				"foreground": "#ffeea6",
+				"fontStyle":"italic"
 			},
 			"name": "Storage",
 			"scope": "storage,support.function.construct.output.php,keyword.operator.new"
