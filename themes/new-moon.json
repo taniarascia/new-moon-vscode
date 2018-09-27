@@ -84,14 +84,14 @@
         "foreground": "#ffffff"
       },
       "name": "Function",
-      "scope": "variable.other.property.php, variable.other.member.php, entity.name.function.php, meta.function-call, meta.property-value, meta.selector"
+      "scope": "variable.other.property.php, variable.other.member.php, entity.name.function.php, meta.function-call, meta.property-value, meta.selector, entity.name.function.ts, entity.name.function.js, entity.name.function.tsx"
     },
     {
       "settings": {
         "foreground": "#78AAD6"
       },
       "name": "Tag",
-      "scope": "support.class, entity.name.type.class, meta.entity.new.name.expr, entity.name.tag.structure.any.html, meta.tag.structure.any.html, punctuation.definition.tag.html, meta.tag.sgml.doctype.html, keyword.other.special-method, entity.name.type, entity.name.tag, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, support.variable.dom.js, meta.tag.structure.any.html, markup.bold, punctuation.definition.bold"
+      "scope": "support.class, entity.name.type.class, meta.entity.new.name.expr, entity.name.tag.structure.any.html, meta.tag.structure.any.html, punctuation.definition.tag.html, meta.tag.sgml.doctype.html, keyword.other.special-method, entity.name.type, entity.name.tag, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, support.variable.dom.js, meta.tag.structure.any.html, markup.bold, punctuation.definition.bold, support.variable.dom.ts"
     },
     {
       "settings": {
@@ -134,21 +134,21 @@
         "foreground": "#d3d0c8"
       },
       "name": "Brackets",
-      "scope": "punctuation.definition.block, meta.brace.square, meta.parameters, punctuation.definition.parameters, meta.brace.round, punctuation.definition.dictionary, punctuation.definition.array, punctuation.separator, constant.character.escape.backslash.regexp, punctuation.section, punctuation.terminator.statement, variable.other.property.js, support.variable.property.dom.js, punctuation.definition.string.begin.markdown, punctuation.definition.string.end.markdown, punctuation.definition.metadata.markdown, punctuation.definition.parameters, punctuation.definition.array, punctuation.separator.key-value, support.type.property-name.json, entity.name.function, meta.require, support.function.any-method, meta.tag.sgml.html, punctuation.section.embedded, variable.interpolation"
+      "scope": "punctuation.definition.block, meta.brace.square, meta.parameters, punctuation.definition.parameters, meta.brace.round, punctuation.definition.dictionary, punctuation.definition.array, punctuation.separator, constant.character.escape.backslash.regexp, punctuation.section, punctuation.terminator.statement, variable.other.property.js, support.variable.property.dom.js, punctuation.definition.string.begin.markdown, punctuation.definition.string.end.markdown, punctuation.definition.metadata.markdown, punctuation.definition.parameters, punctuation.definition.array, punctuation.separator.key-value, support.type.property-name.json, entity.name.function, meta.require, support.function.any-method, meta.tag.sgml.html, punctuation.section.embedded, variable.interpolation, variable.object.property.ts, variable.object.property.tsx, variable.parameter.ts, variable.parameter.tsx"
     },
     {
       "settings": {
         "foreground": "#76D4D6"
       },
       "name": "Variable Alternative",
-      "scope": "constant.other.color, entity.other.attribute-name.pseudo-class.css, constant.other.php, markup.italic.markdown, punctuation.definition.italic.markdown, string.regexp, entity.other.attribute-name.pseudo-element.css, meta.definition.variable.js, meta.var-single-variable.expr.js, variable.other.readwrite.js"
+      "scope": "constant.other.color, entity.other.attribute-name.pseudo-class.css, constant.other.php, markup.italic.markdown, punctuation.definition.italic.markdown, string.regexp, entity.other.attribute-name.pseudo-element.css, meta.definition.variable.js, meta.var-single-variable.expr.js, variable.other.readwrite.js, variable.other.readwrite.tsx, variable.other.readwrite.ts"
     },
     {
       "settings": {
         "foreground": "#99bdd5"
       },
       "name": "CSS Value",
-      "scope": "support.constant.property-value, meta.image.inline.markdown, string.other.link.description.markdown"
+      "scope": "support.constant.property-value, meta.image.inline.markdown, string.other.link.description.markdown, support.type.primitive.ts, support.type.primitive.tsx"
     },
     {
       "settings": {
