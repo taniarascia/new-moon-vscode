@@ -1,5 +1,6 @@
-# New Moon Theme
-> Beautiful Syntax Highlighting
+# New Moon for Visual Studio Code
+
+> The optimized dark theme for web development
 
 ![New Moon Icon](https://raw.githubusercontent.com/taniarascia/new-moon/master/images/newmoon.png)
 
@@ -9,19 +10,22 @@ Optimized for front and back end web development, New Moon is the perfect middle
 
 ## Colors
 
-Palette | Hex Code
---- | ---
-Background | ![#2d2d2d](https://placehold.it/15/2d2d2d/ffffff?text=+) `#2d2d2d`
-Foreground | ![#cccccc](https://placehold.it/15/cccccc/000000?text=+) `#cccccc`
-Comment | ![#8a8a80](https://placehold.it/15/8a8a80/000000?text=+) `#8a8a80`
-Red | ![#f2777a](https://placehold.it/15/f2777a/000000?text=+) `#f2777a`
-Orange | ![#FCA369](https://placehold.it/15/FCA369/000000?text=+) `#fca369`
-Yellow | ![#FFD479](https://placehold.it/15/FFD479/000000?text=+) `#ffd479`
-Light Yellow | ![#ffeea6](https://placehold.it/15/FFEEA6/000000?text=+) `#ffeea6`
-Green | ![#99cc99](https://placehold.it/15/99cc99/000000?text=+) `#99cc99`
-Blue | ![#78AAD6](https://placehold.it/15/78AAD6/000000?text=+) `#78aad6`
-Aqua | ![#76D4D6](https://placehold.it/15/76D4D6/000000?text=+) `#76d4d6`
-Purple | ![#D6ACD6](https://placehold.it/15/D6ACD6/000000?text=+) `#d6acd6`
+Usage | Palette | Hex Code
+--- | --- | ---
+Background | Dark | ![#2d2d2d](https://placehold.it/15/2d2d2d/ffffff?text=+) `#2d2d2d`
+Function | Lightest | ![#ffffff](https://placehold.it/15/ffffff/000000?text=+) `#ffffff`
+Punctuation | Lighter | ![#d5d8df](https://placehold.it/15/d5d8df/000000?text=+) `#d5d8df`
+Foreground | Light | ![#b3b9c5](https://placehold.it/15/cccccc/000000?text=+) `#b3b9c5`
+Comment | Medium | ![#777c85](https://placehold.it/15/777c85/000000?text=+) `#777c85`
+Variable | Red | ![#f2777a](https://placehold.it/15/f2777a/000000?text=+) `#f2777a`
+Number | Orange | ![#fca369](https://placehold.it/15/FCA369/000000?text=+) `#fca369`
+Operator | Brown | ![#AC8D58](https://placehold.it/15/AC8D58/000000?text=+) `#AC8D58`
+Attribute | Yellow | ![#FFD479](https://placehold.it/15/FFD479/000000?text=+) `#ffd479`
+Keyword | Light Yellow | ![#ffeea6](https://placehold.it/15/FFEEA6/000000?text=+) `#ffeea6`
+String | Green | ![#92D192](https://placehold.it/15/99cc99/000000?text=+) `#92D192`
+Tag, Class | Blue | ![#6AB0F3](https://placehold.it/15/78AAD6/000000?text=+) `#78aad6`
+Constant, pseudo | Aqua | ![#62CFCF](https://placehold.it/15/76D4D6/000000?text=+) `#76d4d6`
+Boolean, support | Purple | ![#E1A6F2](https://placehold.it/15/D6ACD6/000000?text=+) `#d6acd6`
 
 ## Screenshot
 
