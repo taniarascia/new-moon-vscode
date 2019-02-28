@@ -1,9 +1,9 @@
 {
 	"name": "new-moon-vscode",
 	"displayName": "New Moon VSCode",
-	"description": "New Moon Theme for Visual Studio Code. A beautiful, middle-contrast dark theme optimized for front and back end development. Your new favorite theme.",
-	"version": "1.6.2",
-	"icon": "screenshots/nmlogo.png",
+	"description": "New Moon Syntax Theme for Visual Studio Code. The optimized dark theme for web development. Your new favorite theme.",
+	"version": "1.8.0",
+	"icon": "images/new-moon-logo.png",
 	"publisher": "taniarascia",
 	"repository": {
 		"type": "git",

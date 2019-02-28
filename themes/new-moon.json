@@ -77,7 +77,14 @@
     "terminal.ansiBrightRed": "#f2777a",
     "terminal.ansiBrightWhite": "#ffffff",
     "terminal.ansiBrightYellow": "#ffd479",
-    "terminal.selectionBackground": "#bbbbbb22"
+    "terminal.selectionBackground": "#bbbbbb22",
+    "peekViewResult.background": "#242424",
+    "peekViewEditor.background": "#242424",
+    "peekView.border": "#333333",
+    "peekViewResult.selectionBackground": "#444444",
+    "peekViewEditor.matchHighlightBackground": "#2d2d2d",
+    "peekViewResult.matchHighlightBackground": "#2d2d2d"
+
   },
   "tokenColors": [
     {
