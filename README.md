@@ -1,6 +1,6 @@
 ![New Moon Icon](https://github.com/taniarascia/new-moon-vscode/raw/master/images/new-moon-vector-thumbnail.png)
 
-# New Moon Syntax Theme [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# 🌙 New Moon Syntax Theme [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 The optimized dark theme for web development.
 
