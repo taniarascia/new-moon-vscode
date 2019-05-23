@@ -112,7 +112,7 @@
         "foreground": "#ffd479"
       },
       "name": "Attribute",
-      "scope": "entity.other.attribute-name, entity.other.attribute-name.class.css, markup.heading punctuation.definition.heading, entity.name.section, entity.other.attribute-name.class.css"
+      "scope": "entity.other.attribute-name, entity.other.attribute-name.class.css, markup.heading punctuation.definition.heading, entity.name.section, entity.other.attribute-name.class.css, string.unquoted.alias.graphql"
     },
     {
       "settings": {
@@ -126,7 +126,7 @@
         "foreground": "#6AB0F3"
       },
       "name": "Tag",
-      "scope": "support.class, entity.name.type.class, meta.entity.new.name.expr, entity.name.tag.structure.any.html, meta.tag.structure.any.html, punctuation.definition.tag.html, meta.tag.sgml.doctype.html, keyword.other.special-method, entity.name.type, entity.name.tag, support.variable.dom.js, meta.tag.structure.any.html, markup.bold, punctuation.definition.bold, entity.name.type.ts, support.variable.dom.ts"
+      "scope": "support.class, entity.name.type.class, meta.entity.new.name.expr, entity.name.tag.structure.any.html, meta.tag.structure.any.html, punctuation.definition.tag.html, meta.tag.sgml.doctype.html, keyword.other.special-method, entity.name.type, entity.name.tag, support.variable.dom.js, meta.tag.structure.any.html, markup.bold, punctuation.definition.bold, entity.name.type.ts, support.variable.dom.ts, entity.name.function.graphql"
     },
     {
       "settings": {
@@ -140,7 +140,7 @@
         "foreground": "#848991"
       },
       "name": "TS Param",
-      "scope": "variable.parameter.ts, variable.parameter.ts, variable.parameter.tsx, entity.tag.tagbraces.nunjucks, string.unquoted.filter-pipe.nunjucks"
+      "scope": "variable.parameter.ts, variable.parameter.ts, variable.parameter.tsx, entity.tag.tagbraces.nunjucks, string.unquoted.filter-pipe.nunjucks, punctuation.colon.graphql, string.unquoted.graphql"
     },
     {
       "settings": {
@@ -183,7 +183,7 @@
         "foreground": "#d5d8df"
       },
       "name": "Brackets",
-      "scope": "punctuation.definition.block, meta.parameters, punctuation.definition.parameters, meta.brace.round, punctuation.definition.dictionary, constant.character.escape.backslash.regexp, punctuation.section, punctuation.terminator.statement, variable.other.property.js, support.variable.property.dom.js, punctuation.definition.parameters, punctuation.definition.array, support.type.property-name.json, entity.name.function, meta.require, support.function.any-method, meta.tag.sgml.html, punctuation.section.embedded, variable.interpolation, variable.object.property.ts, variable.object.property.tsx, meta.brace.square, punctuation.definition.array, punctuation.definition.binding-pattern.object.js, entity.name.tag.yaml"
+      "scope": "punctuation.definition.block, meta.parameters, punctuation.definition.parameters, meta.brace.round, punctuation.definition.dictionary, constant.character.escape.backslash.regexp, punctuation.section, punctuation.terminator.statement, variable.other.property.js, support.variable.property.dom.js, punctuation.definition.parameters, punctuation.definition.array, support.type.property-name.json, entity.name.function, meta.require, support.function.any-method, meta.tag.sgml.html, punctuation.section.embedded, variable.interpolation, variable.object.property.ts, variable.object.property.tsx, meta.brace.square, punctuation.definition.array, punctuation.definition.binding-pattern.object.js, entity.name.tag.yaml, meta.selectionset.graphql"
     },
     {
       "settings": {
@@ -197,7 +197,7 @@
         "foreground": "#abb2bf"
       },
       "name": "Property",
-      "scope": "entity.name.tag.reference, meta.embedded.block.php, meta.embedded.line.php, keyword.other.phpdoc.php, meta.separator, variable.object.property.ts, variable.object.property.tsx, variable.other.property.js, support.variable.property.dom.js, support.type.property-name.json, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, entity.name.type.instance.jsdoc"
+      "scope": "entity.name.tag.reference, meta.embedded.block.php, meta.embedded.line.php, keyword.other.phpdoc.php, meta.separator, variable.object.property.ts, variable.object.property.tsx, variable.other.property.js, support.variable.property.dom.js, support.type.property-name.json, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, entity.name.type.instance.jsdoc, variable.graphql"
     }
   ],
   "colorSpaceName": "sRGB"

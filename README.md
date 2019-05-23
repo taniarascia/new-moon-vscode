@@ -1,4 +1,4 @@
-![New Moon Icon](images/new-moon-logo.png)
+![New Moon Icon](https://github.com/taniarascia/new-moon-vscode/raw/master/images/new-moon-vector-thumbnail.png)
 
 # New Moon Syntax Theme [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -8,7 +8,7 @@ The optimized dark theme for web development.
 
 ## Intuitive Syntax Highlighting
 
-[New Moon](https://taniarascia.github.io/new-moon) is the optimized dark theme for web development. I've meticulously designed New Moon to be easy on the eyes with intuitive connections between related elements. It's pleasant for long coding hours in any language, and particularly well suited for HTML, CSS, Sass, PHP, and JavaScript.
+[New Moon](https://taniarascia.github.io/new-moon/) is the optimized dark theme for web development. It has been meticulously designed to be easy on the eyes and intuitive. It's pleasant for long coding hours in any language, and particularly well suited for HTML, CSS, SCSS/LESS, PHP (WordPress), and JavaScript (React, Vue).
 
 - HTML & CSS work together
 - Optimized for JSX and React
@@ -24,6 +24,9 @@ New Moon is available for:
 - [Brackets](https://github.com/taniarascia/new-moon-brackets)
 - [Sublime Text](https://packagecontrol.io/packages/New%20Moon%20Color%20Scheme)
 - [Atom](https://github.atom.io/packages/new-moon-atom-syntax)
+- [Hyper Term](https://github.com/Tmeister/hyperterm-new-moon-theme)
+- [Blink Shell](https://github.com/taniarascia/new-moon/tree/master/blink-shell)
+- [VIM](https://github.com/taniarascia/new-moon.vim)
 
 > **Note:** The Visual Studio Code, Chrome DevTools, and iTerm2 themes are actively maintained.
 
@@ -66,43 +69,27 @@ New Moon is available for:
 
 ### Chrome DevTools
 
-![New Moon Screenshot Chrome DevTools](images/chromedevtools.png)
+![New Moon Screenshot Chrome DevTools](https://github.com/taniarascia/new-moon-vscode/raw/master/images/chromedevtools.png)
 
 ### iTerm2
 
-![New Moon Screenshot iTerm2](images/iterm2.png)
+![New Moon Screenshot iTerm2](https://github.com/taniarascia/new-moon-vscode/raw/master/images/iterm2.png)
 
 ### VSC: JavaScript/React
 
-![New Moon Screenshot JS](images/js.png)
+![New Moon Screenshot JS](https://github.com/taniarascia/new-moon-vscode/raw/master/images/js.png)
 
 ### VSC: CSS/Sass
 
-![New Moon Screenshot CSS](images/css.png)
+![New Moon Screenshot CSS](https://github.com/taniarascia/new-moon-vscode/raw/master/images/css.png)
 
 ### VSC: PHP
 
-![New Moon Screenshot PHP](images/php.png)
+![New Moon Screenshot PHP](https://github.com/taniarascia/new-moon-vscode/raw/master/images/php.png)
 
 ## Installation
 
 New Moon can be installed through the package/extension/plugin manager by searching for "new-moon".
-
-### Chrome DevTools
-
-1. Navigate to chrome://flags, find Developer Tools Experiments and toggle to Enabled.
-1. Reload Chrome.
-1. In DevTools, click the three dots menu, go to Settings -> Experiments and select Allow UI Themes.
-1. Set theme to "Dark Mode"
-1. Load a new tab and enjoy your awesome new DevTools theme!
-
-### iTerm2
-
-1. iTerm2 > Preferences > Profiles > Colors
-1. Load Presets
-1. Select Import
-1. Select `new-moon.itermcolors`
-1. Select New Moon from color presets
 
 ## Acknowledgements
 
@@ -115,4 +102,4 @@ New Moon can be installed through the package/extension/plugin manager by search
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE.md).
+This project is open source and available under the [MIT License](https://github.com/taniarascia/new-moon-vscode/blob/master/LICENSE.md).
